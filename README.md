@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='C:\Users\natha\OneDrive\Desktop\Nathans.preworkWeb102.gif' title='Nathans Video Walkthrough' width='' alt='Nathans Video Walkthrough' />
+<img src='![Nathans preworkWeb102](https://github.com/Nthnb29/web102_prework/assets/148729514/c2f76f21-9fb5-46a3-82f2-f6aa27541849)
+' title='Nathans Video Walkthrough' width='' alt='Nathans Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with (https://www.loom.com/)
