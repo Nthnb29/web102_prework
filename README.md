@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='[\Users\natha\OneDrive\Desktop\Animation.gif](https://1drv.ms/i/c/e720867f0471eb9f/EeLC39AAqEFNhtdP3ejJAkkB7qKTPLbUvBbyIJZwRxqslg?e=6YqmBG)' title='Nathans Video Walkthrough' width='' alt='Nathans Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [(https://www.loom.com/)](https://www.screentogif.com/)
+GIF created with [(https://www.screentogif.com/)]
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
