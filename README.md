@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./assets/animation.gif' title='Nathans Video Walkthrough' width='' alt='Nathans Video Walkthrough' />
+<img src='assets/Animation.gif' title='Nathans Video Walkthrough' width='' alt='Nathans Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [(https://www.screentogif.com/)]
